@@ -1,5 +1,5 @@
 class Assets {
-  static const String _images = '/assets/images';
+  static const String _images = 'assets/images';
 
   static const String onboardingPage0 = '${_images}/onboarding0.png';
 
